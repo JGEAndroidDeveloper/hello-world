@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+<b>My first repository</b>
+Just some random stuff!
